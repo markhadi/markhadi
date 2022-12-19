@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @markhadi<br>👀 I’m interested in Frontend Web Developer<br>🌱 I’m currently learning Tailwind Css - React.js - Next.js<br>📫 How to reach me markhadi@protonmail.com
+👋 Hi, I’m <b>Markhadi</b><br>👀 I’m interested in Frontend Web Developer<br>🌱 I’m currently learning Tailwind Css - React.js - Next.js<br>📫 How to reach me markhadi@protonmail.com
 
 
 ## 🌐 Socials:
